@@ -1,4 +1,4 @@
-word = {
+word = [
         "Niantic","UiPath","Publisher First (Freestar)","FreightWise","Veggie Noodle Co.","Perpay","Bear Mattress",
         "Applied Data Finance","NuLeaf Naturals","Urgent.ly","Vlocity","YieldStreet","Four Mine (With Clarity)",
         "Auvik Networks","Printify","FANCHEST","Fund That Flip","Beauty Barrage","Beeswax.io","Progyny","IQM","Exabeam",
@@ -76,4 +76,4 @@ word = {
         "QuickContractors.com","Crepes a Latte Catering","Safety First Consulting Professional","GoGold Resources","Titanium Transportation Group",
         "Cue Digital Media","The Marquee Group","PayPal Holdings","Integra LifeSciences Holdings","Home Painters Toronto","Zetrasoft",
         "York Property Services","AZ Pro Signs","Ameex Technologies","Cooperativa de Ahorro y Crédito Tulcána"
-    }
+]
